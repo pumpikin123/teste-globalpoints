@@ -1,0 +1,27 @@
+G:\Global\TesteGlobal\obj\Debug\TesteGlobal.csprojAssemblyReference.cache
+G:\Global\TesteGlobal\obj\Debug\TesteGlobal.Cadastro.resources
+G:\Global\TesteGlobal\obj\Debug\TesteGlobal.Consulta.resources
+G:\Global\TesteGlobal\obj\Debug\TesteGlobal.Properties.Resources.resources
+G:\Global\TesteGlobal\obj\Debug\TesteGlobal.csproj.GenerateResource.cache
+G:\Global\TesteGlobal\bin\Debug\TesteGlobal.exe.config
+G:\Global\TesteGlobal\bin\Debug\TesteGlobal.exe
+G:\Global\TesteGlobal\bin\Debug\TesteGlobal.pdb
+G:\Global\TesteGlobal\obj\Debug\TesteGlobal.exe
+G:\Global\TesteGlobal\obj\Debug\TesteGlobal.pdb
+G:\Global\TesteGlobal\obj\Debug\TesteGlobal.Entrega.resources
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\bin\Debug\TesteGlobal.exe.config
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\bin\Debug\TesteGlobal.exe
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\bin\Debug\TesteGlobal.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.csprojAssemblyReference.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.Cadastro.resources
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.Consulta.resources
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.Entrega.resources
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.Properties.Resources.resources
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.csproj.GenerateResource.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.exe
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.Pedido.resources
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\bin\Debug\MetroFramework.Design.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\bin\Debug\MetroFramework.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\TesteGlobal\obj\Debug\TesteGlobal.csproj.CopyComplete
